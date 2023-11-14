@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Data Operations Analyst Intern",
+      "organisation": "Crif D&B",
+      "startDate": "Aug, 2022",
+      "endDate": "Oct, 2022",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/crif.png"
+    },
+    {
+      "role": "Computer Support Technician",
+      "organisation": "Pamahalaang Barangay Dolores",
+      "startDate": "Mar, 2018",
+      "endDate": "April, 2018",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/pamahalaan.jpg"
+    }
+  
+  ]
+  

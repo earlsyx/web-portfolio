@@ -1,0 +1,29 @@
+[
+    {
+      "title": "Landing Page",
+      "imageSrc": "projects/landingPage.PNG",
+      "description": "This is a project created to learn html and css.",
+      "skills": ["html, css"],
+      "demo": "https://earlsyx.github.io/landing-page-odin/",
+      "source": "https://github.com/earlsyx/landing-page-odin"
+    },
+  
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.PNG",
+      "description": "This is a project made to build a portfolio website using react as a library in javascript.",
+      "skills": ["React", "JavaScript", "Figma"],
+      "demo": "https://earlsyxportfoliowebsite.netlify.app/",
+      "source": "https://www.github.com"
+    },
+
+    {
+      "title": "Recipe Website",
+      "imageSrc": "projects/recipe.png",
+      "description": "My very first html static website.",
+      "skills": ["vanila html"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
